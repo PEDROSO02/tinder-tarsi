@@ -1,3 +1,7 @@
+body{
+  background: #c8a2c8;
+  color:  white;
+}
 a{
   color: black;
   text-decoration: none;
@@ -5,3 +9,14 @@ a{
 a:hover{
   color: red;
 }
+#titulo{
+  color: white;
+  text-align: center;
+}
+#formulario{
+  text-align: center;
+}
+#cadastro{
+  color: white;
+}
+
